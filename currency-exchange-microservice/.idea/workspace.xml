@@ -22,7 +22,106 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c9c4ef75-e606-4f75-857a-3523a0ebd245" name="Default Changelist" comment="Added currency-converter" />
+    <list default="true" id="c9c4ef75-e606-4f75-857a-3523a0ebd245" name="Default Changelist" comment="Added currency-converter">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_16_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_inject_guice_4_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_client_1_9_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_eureka_eureka_core_1_9_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_commons_util_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_infix_0_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_core_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_eureka_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_httpclient_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_loadbalancer_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_ribbon_ribbon_transport_2_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_servo_servo_core_0_12_21.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_stoyanr_evictor_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_client_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_core_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_server_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_sun_jersey_jersey_servlet_1_19_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_14.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jxpath_commons_jxpath_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_5_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_addons_reactor_extra_3_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_3_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_contexts_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxnetty_servo_0_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_ws_rs_jsr311_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_antlr_runtime_3_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_antlr_stringtemplate_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_jettison_jettison_1_3_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_4_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_30.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_1_5_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_cache_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_freemarker_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_2_3_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_loadbalancer_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_client_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_eureka_server_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_loadbalancer_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_archaius_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_client_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_eureka_server_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_ribbon_2_2_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-microservice-currency-conversion/src/main/java/com/example/currencyconversion/api/CurrencyExchangeServiceProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-microservice-eureka-naming-server/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-microservice-eureka-naming-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-microservice-eureka-naming-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-microservice-eureka-naming-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-microservice-eureka-naming-server/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-microservice-eureka-naming-server/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-microservice-eureka-naming-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-microservice-eureka-naming-server/src/main/java/com/example/eurekanamingserverdemo/EurekaNamingServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-microservice-eureka-naming-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-microservice-eureka-naming-server/src/test/java/com/example/eurekanamingserverdemo/EurekaNamingServerdemoApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-microservice-currency-conversion/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-microservice-currency-conversion/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-microservice-currency-conversion/src/main/java/com/example/currencyconversion/CurrencyConversionApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-microservice-currency-conversion/src/main/java/com/example/currencyconversion/CurrencyConversionApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-microservice-currency-conversion/src/main/java/com/example/currencyconversion/api/CurrencyConversionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-microservice-currency-conversion/src/main/java/com/example/currencyconversion/api/CurrencyConversionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-microservice-currency-conversion/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-microservice-currency-conversion/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-microservice-forex-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-microservice-forex-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-boot-microservice-forex-service/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-boot-microservice-forex-service/src/main/resources/application.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,6 +134,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -61,15 +161,35 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
-  <component name="RunManager" selected="Spring Boot.CurrencyConversionApplication">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SpringBootMicroservicesProjects\currency-exchange-microservice\spring-boot-microservice-eureka-naming-server" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ForexServiceApplication(1)">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CurrencyConversionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="currency-conversion" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.currencyconversion.CurrencyConversionApplication" />
@@ -77,7 +197,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForexServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="EurekaNamingServerdemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-naming-serverdemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.eurekanamingserverdemo.EurekaNamingServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForexServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="forex-service" />
       <extension name="coverage">
         <pattern>
@@ -86,15 +213,32 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.forexservice.ForexServiceApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Spring Boot.ForexServiceApplication" />
-      </list>
-    </recent_temporary>
+    <configuration name="ForexServiceApplication(1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="forex-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.forexservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.forexservice.ForexServiceApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.CurrencyConversionApplication" />
+      <item itemvalue="Spring Boot.ForexServiceApplication" />
+      <item itemvalue="Spring Boot.ForexServiceApplication(1)" />
+      <item itemvalue="Spring Boot.EurekaNamingServerdemoApplication" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -105,6 +249,8 @@
       <option name="presentableId" value="Default" />
       <updated>1598295949551</updated>
       <workItem from="1598295950833" duration="1528000" />
+      <workItem from="1598297532565" duration="1698000" />
+      <workItem from="1598369782670" duration="2666000" />
     </task>
     <task id="LOCAL-00001" summary="Added currency-converter">
       <created>1598297270265</created>
@@ -113,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598297270265</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="currency-conversion">
+      <created>1598297859249</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1598297859249</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,60 +282,74 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Added currency-converter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added currency-converter" />
+    <MESSAGE value="currency-conversion" />
+    <option name="LAST_COMMIT_MESSAGE" value="currency-conversion" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="831" y="438" width="483" height="204" key="Github.ShareDialog" timestamp="1598297450324">
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598370486524">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="831" y="438" width="483" height="204" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598297450324" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1598297508552">
+    <state x="414" y="195" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598370486524" />
+    <state x="740" y="245" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1598370212101">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1598297508552" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1598297508552">
+    <state x="740" y="245" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598370212101" />
+    <state x="588" y="235" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1598378952146">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1598297508552" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1598297508551">
+    <state x="588" y="235" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598378952146" />
+    <state x="831" y="438" width="483" height="204" key="Github.ShareDialog" timestamp="1598297778603">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1598297508551" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1598297508552">
+    <state x="831" y="438" width="483" height="204" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598297778603" />
+    <state width="1877" height="501" key="GridCell.Tab.0.bottom" timestamp="1598379828479">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1598297508552" />
-    <state width="1877" height="295" key="GridCell.Tab.1.bottom" timestamp="1598297508552">
+    <state width="1877" height="501" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1598379828479" />
+    <state width="1877" height="501" key="GridCell.Tab.0.center" timestamp="1598379828479">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1598297508552" />
-    <state width="1877" height="295" key="GridCell.Tab.1.center" timestamp="1598297508552">
+    <state width="1877" height="501" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1598379828479" />
+    <state width="1877" height="501" key="GridCell.Tab.0.left" timestamp="1598379828479">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1598297508552" />
-    <state width="1877" height="295" key="GridCell.Tab.1.left" timestamp="1598297508552">
+    <state width="1877" height="501" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1598379828479" />
+    <state width="1877" height="501" key="GridCell.Tab.0.right" timestamp="1598379828479">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1598297508552" />
-    <state width="1877" height="295" key="GridCell.Tab.1.right" timestamp="1598297508552">
+    <state width="1877" height="501" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1598379828479" />
+    <state width="1877" height="501" key="GridCell.Tab.1.bottom" timestamp="1598379828480">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1598297508552" />
+    <state width="1877" height="501" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1598379828480" />
+    <state width="1877" height="501" key="GridCell.Tab.1.center" timestamp="1598379828480">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="501" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1598379828480" />
+    <state width="1877" height="501" key="GridCell.Tab.1.left" timestamp="1598379828480">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="501" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1598379828480" />
+    <state width="1877" height="501" key="GridCell.Tab.1.right" timestamp="1598379828480">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="501" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1598379828480" />
     <state x="540" y="275" key="IDE.errors.dialog" timestamp="1598296799972">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="540" y="275" key="IDE.errors.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1598296799972" />
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1598297286028">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2" timestamp="1598297861599">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1598297286028" />
-    <state x="342" y="201" key="new project wizard" timestamp="1598296037039">
+    <state x="552" y="273" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1598297861599" />
+    <state x="342" y="201" key="new project wizard" timestamp="1598378745872">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="342" y="201" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1598296037039" />
+    <state x="342" y="201" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1598378745872" />
   </component>
 </project>
