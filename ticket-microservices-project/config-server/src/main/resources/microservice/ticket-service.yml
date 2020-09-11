@@ -1,0 +1,16 @@
+server:
+  port: 8502
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8500/eureka/
+
+spring:
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+  datasource:
+      url: jdbc:mysql://localhost:3306/microservices
+      username: root
+      password: 1999Aqil
