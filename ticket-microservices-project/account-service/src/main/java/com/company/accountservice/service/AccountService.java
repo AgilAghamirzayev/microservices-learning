@@ -27,20 +27,15 @@ public class AccountService {
 
     public Account update(Account account) {
         return accountRepository.save(account);
-
     }
 
     public void delete(String id) {
-
+        accountRepository.deleteById(id);
     }
 
     public List<Account> getAll() {
         return accountRepository.findAll();
     }
 
-    public Account pagination() {
-
-        return null;
-    }
 
 }

@@ -1,4 +1,0 @@
-show dbs
-use database_name // you can create (if created) and use db
-db.user.insert({name: "Aqil", age: 21}) -> it insert to selected  db
-db.dropDatabase() you can delete current (selected) database

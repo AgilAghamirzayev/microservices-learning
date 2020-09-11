@@ -1,12 +1,12 @@
 package com.company.accountservice.entity;
 
 import lombok.*;
+import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
 
 import java.util.Date;
-import java.util.UUID;
 
-@Document(collation = "account")
+@Document("account")
 @Getter
 @Setter
 @NoArgsConstructor
@@ -15,10 +15,11 @@ import java.util.UUID;
 @ToString
 public class Account {
 
-    private String id = UUID.randomUUID().toString();
+    @Id
+    private String id;
     private String username;
     private String email;
-    private String passwd;
+    private String password;
     private Date createdAt;
     private Boolean isActive;
 
