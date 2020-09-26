@@ -1,5 +1,8 @@
 package com.company.ticketservice.enums;
 
+import lombok.Getter;
+
+@Getter
 public enum TicketStatus {
     OPEN("aciq"),
     IN_PROGRESS("davam edir"),

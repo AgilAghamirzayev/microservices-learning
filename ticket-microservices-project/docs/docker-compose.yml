@@ -1,17 +1,19 @@
-version: '3'
+version: '3.1'
 services:
   mongo:
     container_name: mongodb
     image: mongo
     restart: always
     ports:
-    - 27017:27017
+    - '27017:27017'
 
   mysql:
     image: mysql
     restart: always
     environment:
       MYSQL_ROOT_PASSWORD: 1999Aqil
+    ports:
+    - '3306-3306'
 
   elasticsearch:
     image: elasticsearch:6.8.5

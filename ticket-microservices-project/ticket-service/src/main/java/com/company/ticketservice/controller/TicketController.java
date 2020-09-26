@@ -4,6 +4,7 @@ import com.company.ticketservice.dto.TicketDTO;
 import com.company.ticketservice.service.TicketService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
@@ -17,8 +18,9 @@ public class TicketController {
     private final TicketService ticketService;
 
     @GetMapping("/{id}")
-    public ResponseEntity<TicketDTO> getById(@RequestBody String id) {
+    public ResponseEntity<TicketDTO> getById(@PathVariable String id) {
         TicketDTO getTicket = ticketService.getById(id);
+        new ResponseEntity<>(getTicket, HttpStatus.OK);
         return ResponseEntity.ok(getTicket);
     }
 
